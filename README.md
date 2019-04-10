@@ -1,0 +1,2 @@
+# cv-buddy
+CV Buddy
